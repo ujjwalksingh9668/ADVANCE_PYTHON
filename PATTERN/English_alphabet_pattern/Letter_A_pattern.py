@@ -1,5 +1,5 @@
 # python code to print pattern of capital english alphabet "A"...
-
+    
 # Solution:-
 n = int(input("Enter the height of the letter A: "))
 
