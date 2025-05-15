@@ -1,6 +1,6 @@
 # python code to print the English alphabet "C"...
 
-# solution:-
+# solution:-    
 n = int(input("Enter the size of the C: "))
 for row in range(n):
     for col in range(n):
