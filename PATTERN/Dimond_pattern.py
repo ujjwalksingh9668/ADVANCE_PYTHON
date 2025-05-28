@@ -1,5 +1,5 @@
 # python program to print the diamond pattern...
-    
+            
 # Solution:-
 num = int(input("enter the number of rows: "))
 #upper part:-
