@@ -1,5 +1,5 @@
 # HCF of two number
-
+      
 #Solution:-
 def Compute_hcf(x,y):
     smaller = 0
