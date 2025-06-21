@@ -1,5 +1,5 @@
 # Factor of two numbers....
-
+   
 #Solution:-
 number = int(input("enter the number: "))
 
