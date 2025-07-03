@@ -1,7 +1,7 @@
 """
 n = [5,3,2,2,1,5,5,7,5,10]
 m = [10,111,1,9,5,67,2]
-we have to find how many times the element of n comes in n     
+we have to find how many times the element of n comes in n...     
 """    
 # Solution:-
 n = [5,3,2,2,1,5,5,7,5,10]
