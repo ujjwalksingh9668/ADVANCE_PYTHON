@@ -1,5 +1,5 @@
 # palindrome number
-    #Solution:-
+    #Solution:-     
 num = int(input("enter the number"))
 lenght = len(str(num))
 temp = num
