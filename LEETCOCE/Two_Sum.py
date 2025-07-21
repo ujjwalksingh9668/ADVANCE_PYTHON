@@ -26,3 +26,4 @@ if result:
     print("Indices of elements that sum to target:", result)
 else:
     print("No two elements sum to the target.")
+
