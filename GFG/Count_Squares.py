@@ -9,3 +9,5 @@ import math
 n = int(input())
 a = int(math.sqrt(n-1))
 print(a)
+
+
