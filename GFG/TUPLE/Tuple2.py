@@ -1,7 +1,7 @@
 """
 You are given a tuple numbers that contains a A.P sequence integer. You need to
 calculate the next three sequences of numbers and return the whole sequence in a
-tuple.
+tuple....
 
 Examples:
 Input: tup = ( 1, 5, 9, 13, 17)
