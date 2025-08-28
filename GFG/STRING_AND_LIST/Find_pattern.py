@@ -8,7 +8,7 @@ Input: s = "Hello", p
 = "110"
 Output: 2
 Explanation:
-110 starts from the second index in Hello.
+110 starts from the second index in Hello....
 
 https://www.geeksforgeeks.org/batch/da-skill-up/track/su-da-day4/problem/find-pattern--141628
 """
