@@ -1,6 +1,6 @@
 """
 You are given a tuple numbers that contains integers. You need to return a tuple
-containing doubles Of given numbers.
+containing doubles Of given numbers...
 
 Examples:
 Input: tup = (4, 5, 1, 2, 3, 5)
