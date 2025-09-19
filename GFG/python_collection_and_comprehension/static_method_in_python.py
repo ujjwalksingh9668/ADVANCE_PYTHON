@@ -1,6 +1,6 @@
 """
 Design a class as described below:
-• Class Name: Addition
+• Class Name: Addition.  
 • Method.
 function name: add
 Parameters: a (int), b (int)
